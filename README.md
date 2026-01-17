@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # equran_keren
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# 2310020098_M-Dody-Mahlianor---UAS
+UAS PA Muharir MKom
+>>>>>>> 11efc61ce684f1b348a18554d80155a6ff7b28da
